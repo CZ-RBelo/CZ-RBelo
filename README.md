@@ -38,7 +38,7 @@ When I'm not programming, I like to spend time with my family, travelling or lis
 If you require any further information, feel free to contact me at:
  
 * Github Profile: [CZ-RBELO](https://github.com/CZ-RBelo/)  
-* Email: [jr.belo@hotmail.com](mailto:jr.belo@hotmail.com)
+* Email: [rui.belo@conceptzoa.com](mailto:rui.belo@conceptzoa.com) / [jr.belo@hotmail.com](mailto:jr.belo@hotmail.com)
 * LinkedIn: [Rui Belo](https://linkedin.com/in/ruibelo)
 
 ### Credits
