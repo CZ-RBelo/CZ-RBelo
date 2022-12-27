@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there! Welcome to my GitHub profile! I'm Rui Belo. 👋
 
 <!--
 **CZ-RBelo/CZ-RBelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
