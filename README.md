@@ -39,7 +39,7 @@ If you require any further information, feel free to contact me at:
  
 * Github Profile: [CZ-RBELO](https://github.com/CZ-RBelo/)  
 * Email: [rui.belo@conceptzoa.com](mailto:rui.belo@conceptzoa.com)
-* LinkedIn: [Rui Belo](https://linkedin.com/in/ruibelo)
+* LinkedIn: [ruibelo](https://linkedin.com/in/ruibelo)
 
 ### Credits
 
